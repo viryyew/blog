@@ -1,7 +1,9 @@
 
+
 html,body{
-  max-width: 1016px;
+  margin: 0;
   margin-top: 80px;
+  width: 1000px;
 }
 
 /* #wrapper{
@@ -12,13 +14,13 @@ html,body{
 
 #sidebar{
   float:left;
-  width:200px;
+  width:20%;
   height:100%;
 }
 
 #main{
   float:left;
-  width: 780px;
+  width: 78%;
   height:100%;
   margin-left:20px;
 }
