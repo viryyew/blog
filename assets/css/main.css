@@ -33,12 +33,12 @@ html,body{
 
   .left{
     position: absolute;
-    width:300px;
+    width:240px;
     height:100%;
   }
 
   .right{
-    margin-left: 300px;
+    margin-left: 240px;
     padding: 36px 28px;
     height: 168px;
 
@@ -99,7 +99,7 @@ html,body{
 
 
 #cover{
-  width: 300px;
+  width: 240px;
   height: 240px;
 }
 
